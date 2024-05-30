@@ -34,7 +34,7 @@ Whimsee relies on the following Python libraries:
 ## Expected output
 ![Whimsee Image 1](W1.png)
 ![Whimsee Image 2](W2.png)
-![Whimsee Image 3](BA3.png)
+![Whimsee Image 3](W3.png)
 ## Contributing
 
 If you encounter any issues or have suggestions for improvement, feel free to report them to me at [here](mailto:23f2004375@ds.study.iitm.ac.in).
