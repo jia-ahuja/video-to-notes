@@ -12,11 +12,15 @@ Whimsee is a handy tool that converts video content into summarized notes. With 
 
 ## Usage
 
-1. Provide the URL of the YouTube video you want to summarize when prompted.
+## Steps to use this Integration on deltaV.
 
-2. Wait for Whimsee to process the video transcript and generate the summarized notes.
-
-3. Review the generated notes and utilize them for your reference or study purposes.
+- Open `terminal` on your local machine and save the script as `whimsee.py`.
+- Run the python script to get the `agent's address` and create a mailbox on agentverse.
+- Get the Mailbox key and paste it in the code.
+- Setup `function` in Agentverse to access DeltaV.
+- In deltaV, query "video to notes".
+- Send the YouTube URL when asked.
+- You'll get the summarized output now.
 
 ## Dependencies
 
@@ -27,7 +31,10 @@ Whimsee relies on the following Python libraries:
 - `youtube_transcript_api`
 - `transformers`
 
-
+## Expected output
+![Whimsee Image 1](W1.png)
+![Whimsee Image 2](W2.png)
+![Whimsee Image 3](BA3.png)
 ## Contributing
 
 If you encounter any issues or have suggestions for improvement, feel free to report them to me at [here](mailto:23f2004375@ds.study.iitm.ac.in).
